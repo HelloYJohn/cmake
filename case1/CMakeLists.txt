@@ -1,0 +1,2 @@
+PROJECT(TESTCMAKE)
+ADD_EXECUTABLE(test test.cpp)
